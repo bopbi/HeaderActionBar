@@ -3,7 +3,7 @@ HeaderActionBar
 
 Scroll Effect Action Bar Header, like the Google Play or News Stand
 
-![Demo](https://github.com/bopbi/HeaderActionBar/master/header_actionbar_example.gif)
+![Demo](https://github.com/bopbi/HeaderActionBar/blob/master/header_actionbar_example.gif)
 
 This app doesn't use fragment, only use activity
 
